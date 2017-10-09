@@ -6,5 +6,6 @@ public class Main {
     System.out.println("Start project...");
     System.out.println("Message 1...");
     System.out.println("Message 2...");
+    System.out.println("Message 3...");
   }
 }
