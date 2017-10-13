@@ -1,3 +1,3 @@
 # learning
 Aprendiendo GIT
-generar conflicto
+cambio 2
