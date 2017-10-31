@@ -6,6 +6,11 @@ public class Main {
     System.out.println("Start project...");
     System.out.println("Message 1...");
     
+    System.out.println("Message 2...");
+    System.out.println("Message 3...");
+    
+    System.out.println("Messages only master...");
+    
     System.out.println("Message MASTER 1...");
   }
 }
