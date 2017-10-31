@@ -10,5 +10,7 @@ public class Main {
     
     System.out.println("Messages only dev 1...");
     System.out.println("Messages only dev 2...");
+    
+    System.out.println("Message MASTER 1...");
   }
 }
