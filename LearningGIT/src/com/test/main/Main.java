@@ -8,6 +8,7 @@ public class Main {
     System.out.println("Message 2...");
     System.out.println("Message 3...");
     
-    System.out.println("Messages only master...");
+    System.out.println("Messages only dev 1...");
+    System.out.println("Messages only dev 2...");
   }
 }
